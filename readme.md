@@ -1,3 +1,4 @@
+Explicação para a Apresentação:
 
 Escolha do Problema: Subsequência Comum Máxima (LCS)
  - Escolhemos o problema LCS porque é um exemplo clássico de programação dinâmica, ideal para demonstrar como memoização otimiza recursividade.
